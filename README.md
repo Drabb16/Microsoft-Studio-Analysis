@@ -18,16 +18,16 @@ For my analysis, I used multiple datasets from IMBD and The Numbers that include
 ### Release Month
 The month of a release can have a big impact on the success of a movie. Historically, many studios release their biggest movies during the Summer or Holiday months when more people are going to the box office. To advise a handful of release months, I looked at the average worldwide gross by release month. 
 
-![ReleaseMonth](C:\Users\17045\Documents\GitHub\Microsoft-Studio-Analysis\images\RevenuebyMonth.png)
+![ReleaseMonth](https://github.com/Drabb16/Microsoft-Studio-Analysis/blob/main/images/RevenuebyMonth.png)
 
 ### Genre Selection
 
 One of the most influential factors in a movie's success is that movie's genre. In order to advise what movies Microsoft studios should create, I looked at the most popular genres (rated by number of votes).
 
-![PopularitybyGenre](C:\Users\17045\Documents\GitHub\Microsoft-Studio-Analysis\images\PopularitybyGenre.png)
+![PopularitybyGenre](https://github.com/Drabb16/Microsoft-Studio-Analysis/blob/main/images/PopularitybyGenre.png)
 
 ### Production Budget
 
 Setting an appropriate production budget for a movie is one of the most important questions a stakeholder to have. This analysis got the average production budget for movies in the top 10% in worldwide gross sales. 
 
-![WWgrossvsProdBudget](C:\Users\17045\Documents\GitHub\Microsoft-Studio-Analysis\images\WWgrossvsProdBudget.png)
+![WWgrossvsProdBudget](https://github.com/Drabb16/Microsoft-Studio-Analysis/blob/main/images/WWGrossvsProdBudget.png)
