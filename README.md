@@ -19,30 +19,30 @@ For my analysis, I used multiple datasets from IMBD and The Numbers that include
 The month of a release can have a big impact on the success of a movie. Historically, many studios release their biggest movies during the Summer or Holiday months when more people are going to the box office. To advise a handful of release months, I looked at the average worldwide gross by release month. 
 
 
-![ReleaseMonth](https://github.com/Drabb16/Microsoft-Studio-Analysis/blob/main/images/RevbyMonthW.png)
+![ReleaseMonth](https://raw.githubusercontent.com/Drabb16/Microsoft-Studio-Analysis/main/images/Releasemonth_revenue_bargraph.png)
 
 
 ### Genre Selection
 
 One of the most influential factors in a movie's success is that movie's genre. In order to advise what movies Microsoft studios should create, I looked at the most popular genres (rated by number of votes).
 
-![PopularitybyGenre](https://github.com/Drabb16/Microsoft-Studio-Analysis/blob/main/images/PopbyGenreW.png)
+![PopularitybyGenre](https://raw.githubusercontent.com/Drabb16/Microsoft-Studio-Analysis/main/images/Genre_popularity_bargraph.png)
 
 
 ### Production Budget
 
-Setting an appropriate production budget for a movie is one of the most important questions a stakeholder to have. This analysis got the average production budget for movies in the top 10% in worldwide gross sales. 
+Setting an appropriate production budget for a movie is one of the most important questions a stakeholder to have. This analysis got the average production budget for movies in the top 10% in worldwide gross sales. Not only are the sales much higher, but the return on investment is as well. 
 
-![WWgrossvsProdBudget](https://github.com/Drabb16/Microsoft-Studio-Analysis/blob/main/images/WWGrossvsProdBudget.png)
+![WWgrossvsProdBudget](https://raw.githubusercontent.com/Drabb16/Microsoft-Studio-Analysis/main/images/Top10_WWG_vs_PB_Barchart.png)
 
 ## Conclusions
 
 In conclusion, my analysis lead to three critical suggestions for Microsoft Studios new production. 
 
-<li>Microsoft studios should expect to allocate around <b>109 million dollars</b> to their production budget to generate worldwide sales in the top 10% of movies.</li>
+<li>Microsoft studios should expect to allocate around <b>120 million dollars</b> to their production budget to generate worldwide sales in the top 10% of movies.</li>
 
 <li>The release date should be set for <b>early Summer(May-July)</b> or during holiday season (November-December), since movies released during these periods have the highest revenue on average. </li>
 
-<li>Microsoft Studios should create a movie fitting in the <b>action, adventure, or sci-fi</b> category as they are the most popular among movie fans.</li>
+<li>Microsoft Studios should create a movie fitting in the <b>sci-fi, adventure, or action</b> category as they are the most popular among movie fans.</li>
 
 
