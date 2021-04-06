@@ -18,31 +18,22 @@ For my analysis, I used multiple datasets from IMBD and The Numbers that include
 ### Release Month
 The month of a release can have a big impact on the success of a movie. Historically, many studios release their biggest movies during the Summer or Holiday months when more people are going to the box office. To advise a handful of release months, I looked at the average worldwide gross by release month. 
 
-<<<<<<< HEAD
-![ReleaseMonth](C:\Users\17045\Documents\GitHub\Microsoft-Studio-Analysis\images\RevenuebyMonth.png)
-=======
+
 ![ReleaseMonth](https://github.com/Drabb16/Microsoft-Studio-Analysis/blob/main/images/RevbyMonthW.png)
->>>>>>> c246fd84a7af4acdc8612381e5b47756f7805592
+
 
 ### Genre Selection
 
 One of the most influential factors in a movie's success is that movie's genre. In order to advise what movies Microsoft studios should create, I looked at the most popular genres (rated by number of votes).
 
-<<<<<<< HEAD
-![PopularitybyGenre](C:\Users\17045\Documents\GitHub\Microsoft-Studio-Analysis\images\PopularitybyGenre.png)
-=======
 ![PopularitybyGenre](https://github.com/Drabb16/Microsoft-Studio-Analysis/blob/main/images/PopbyGenreW.png)
->>>>>>> c246fd84a7af4acdc8612381e5b47756f7805592
+
 
 ### Production Budget
 
 Setting an appropriate production budget for a movie is one of the most important questions a stakeholder to have. This analysis got the average production budget for movies in the top 10% in worldwide gross sales. 
 
-<<<<<<< HEAD
-![WWgrossvsProdBudget](C:\Users\17045\Documents\GitHub\Microsoft-Studio-Analysis\images\WWgrossvsProdBudget.png)
-=======
 ![WWgrossvsProdBudget](https://github.com/Drabb16/Microsoft-Studio-Analysis/blob/main/images/WWGrossvsProdBudget.png)
->>>>>>> c246fd84a7af4acdc8612381e5b47756f7805592
 
 ## Conclusions
 
@@ -52,8 +43,6 @@ In conclusion, my analysis lead to three critical suggestions for Microsoft Stud
 
 <li>The release date should be set for <b>early Summer(May-July)</b> or during holiday season (November-December), since movies released during these periods have the highest revenue on average. </li>
 
-<<<<<<< HEAD
 <li>Microsoft Studios should create a movie fitting in the <b>action, adventure, or sci-fi</b> category as they are the most popular among movie fans.</li>
-=======
-<li>Microsoft Studios should create a movie fitting in the <b>action, adventure, or sci-fi</b> category as they are the most popular among movie fans.</li>
->>>>>>> c246fd84a7af4acdc8612381e5b47756f7805592
+
+
